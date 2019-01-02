@@ -1,0 +1,40 @@
+rozmiar klocka dol | rodzaj potworka     ilosc danego potworka  |  rozmiar klocka gora    |  dodatkowy klocek srodek |
+     150           |       0                      0             |	    50                |          1               |
+
+
+Rodzaje potworkow:
+0 - kalarepa - jajfighter
+1 - misiek - patelnia
+2 - tuba - kometa
+3 - kielbasa - czajnik
+4 - marchew - satelita
+5 - marchew - wolne - ufo
+6 - marchew - wolne - jaj1m (100)
+7 - mikser -jaj2m
+8 - widelec - jaj3m
+9 - tluczek - jaj1(100)
+10 - chochla - jaj2
+11 - czajnik - jaj3
+12 - para - nie uzywac - kura
+13 - palnik - robot
+14 - plomien - nie uzywac
+15 - generator dol
+16 - generator gora
+Rozmiary klockow mozliwych do wyboru:
+
+Gora:
+-  50
+- 100
+- 150
+- 200
+- 400
+
+Dol:
+-  50
+- 100
+- 150
+- 200
+- 250
+- 400
+Zalamanie do 6
+Wielkosc do 200?
